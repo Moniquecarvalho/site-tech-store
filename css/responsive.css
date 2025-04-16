@@ -1,0 +1,16 @@
+/* Header */
+@media (max-width: 768px) {
+  .top-bar {
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+  }
+  .logo h1 {
+    margin: 0;
+  }
+
+  .user-options  {
+    gap: 10px;
+  }
+  
+}
