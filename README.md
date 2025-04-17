@@ -58,7 +58,7 @@ Visualização otimizada para celulares com resolução de 375px, mantendo a boa
 
 ## 🔗 Acesse o Projeto
 
-👉 [Clique aqui para visualizar a página](coloque-o-link-do-projeto-aqui)
+👉 [Clique aqui para visualizar a página](https://moniquecarvalho.github.io/site-tech-store/)
 
 
 
