@@ -19,6 +19,8 @@ Foi um grande desafio criar essa tela, principalmente no que diz respeito à res
 **Descrição:**  
 Tela de produto exibida em resolução desktop, com todos os elementos bem distribuídos e aproveitamento completo do espaço da tela.
 
+</br>
+
 ## 📱 Responsividade
 
  Totalmente responsivo para:
@@ -34,26 +36,32 @@ Tela de produto exibida em resolução desktop, com todos os elementos bem distr
 -  **Botão "Adicionar ao Carrinho"** para simular a ação de compra
 -  Layout responsivo e adaptável para diferentes tamanhos de tela
 
+</br>
+
 ## 📱 Resolução 425px (Tablet / Celular maior)
 
 ![Tela do produto em resolução 425px](./img/resolucao-425.png)
-
+</br>
 **Descrição:**  
 Layout ajustado para resolução de 425px, com reorganização dos elementos para melhor visualização e usabilidade em telas menores.
 
-### 📱 Resolução 375px (Celular)
+</br>
+
+## 📱 Resolução 375px (Celular)
 
 ![Tela do produto em resolução 375px](./img/resolucao-375.png)
 
 **Descrição:**  
 Visualização otimizada para celulares com resolução de 375px, mantendo a boa leitura, espaçamento e funcionalidades acessíveis.
 
+</br>
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
 
+</br>
 
 ## 💡 Sobre Mim
 
